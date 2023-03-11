@@ -1,0 +1,20 @@
+{
+  "name": "custom-block-template",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "blocks start",
+    "start-https": "blocks start --https=true",
+    "build": "blocks build"
+  },
+  "dependencies": {
+    "@githubnext/blocks": "^2.3.5",
+    "@primer/react": "^35.21.0",                            
+    "plantuml-encoder": "^1.4.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-plantuml": "^0.0.8",
+    "vis-data": "^7.1.4",
+    "vis-network": "^9.1.4"
+  }
+}

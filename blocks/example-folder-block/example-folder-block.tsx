@@ -47,5 +47,3 @@ import React, { useRef, useEffect } from 'react';       export default function 
     </Box>
   );
 }
-
-export default Block;
